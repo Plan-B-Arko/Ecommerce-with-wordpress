@@ -1,0 +1,11 @@
+[2020-08-15 18:43:22][notice]Prepare download backup.
+[2020-08-15 18:43:22][notice]server info fcgi:Off max execution time: 900 wp version:5.3.4 php version:7.4.2 db version:5.5.5 php ini:safe_mode: memory_limit:512M memory_get_usage:62.23 MB memory_get_peak_usage:64.24 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-08-15 18:43:22][notice]Google Drive get client.
+[2020-08-15 18:43:23][notice]Create local file.
+[2020-08-15 18:43:25][notice]Get download url.
+[2020-08-15 18:43:26][notice]Downloading file , Size: 68879291
+[2020-08-15 18:45:20][notice]Total Size: 68879291, Downloaded Size: 2097152
+[2020-08-15 18:47:37][notice]Total Size: 68879291, Downloaded Size: 4194304
+[2020-08-15 18:50:40][notice]Total Size: 68879291, Downloaded Size: 6291456
+[2020-08-15 18:53:15][notice]Total Size: 68879291, Downloaded Size: 8388608
+[2020-08-15 18:53:41][error]type: 1, Maximum execution time of 600 seconds exceeded file:C:\xampp\htdocs\wpress\wp-content\plugins\wpvivid-backuprestore\vendor\guzzlehttp\guzzle\src\Handler\CurlFactory.php line:538

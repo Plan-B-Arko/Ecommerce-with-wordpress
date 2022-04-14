@@ -1,0 +1,126 @@
+Log created: 2020-08-24 10:07:32
+Type: backup
+[2020-08-24 10:07:56][notice]Start backing up.
+[2020-08-24 10:07:56][notice]server info fcgi:Off max execution time: 900 wp version:5.3.4 php version:7.4.2 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:56.52 MB memory_get_peak_usage:58.49 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2020-08-24 10:07:56][notice]Prepare to backup backup_db files.
+[2020-08-24 10:07:56][notice]Start exporting database.
+[2020-08-24 10:07:56][notice]max_allowed_packet less than 32M :1.00 MB
+[2020-08-24 10:07:56][notice]Preparing to dump table wp_actionscheduler_actions
+[2020-08-24 10:07:56][notice]Preparing to dump table wp_actionscheduler_claims
+[2020-08-24 10:07:57][notice]Preparing to dump table wp_actionscheduler_groups
+[2020-08-24 10:07:57][notice]Preparing to dump table wp_actionscheduler_logs
+[2020-08-24 10:07:57][notice]Preparing to dump table wp_cartflows_ca_cart_abandonment
+[2020-08-24 10:07:57][notice]Preparing to dump table wp_cartflows_ca_email_history
+[2020-08-24 10:07:57][notice]Preparing to dump table wp_cartflows_ca_email_templates
+[2020-08-24 10:07:58][notice]Preparing to dump table wp_cartflows_ca_email_templates_meta
+[2020-08-24 10:07:58][notice]Preparing to dump table wp_commentmeta
+[2020-08-24 10:07:58][notice]Preparing to dump table wp_comments
+[2020-08-24 10:07:58][notice]Preparing to dump table wp_links
+[2020-08-24 10:07:58][notice]Preparing to dump table wp_options
+[2020-08-24 10:07:59][notice]Preparing to dump table wp_postmeta
+[2020-08-24 10:07:59][notice]Preparing to dump table wp_posts
+[2020-08-24 10:07:59][notice]Preparing to dump table wp_termmeta
+[2020-08-24 10:07:59][notice]Preparing to dump table wp_terms
+[2020-08-24 10:07:59][notice]Preparing to dump table wp_term_relationships
+[2020-08-24 10:07:59][notice]Preparing to dump table wp_term_taxonomy
+[2020-08-24 10:08:00][notice]Preparing to dump table wp_usermeta
+[2020-08-24 10:08:00][notice]Preparing to dump table wp_users
+[2020-08-24 10:08:00][notice]Preparing to dump table wp_wc_admin_notes
+[2020-08-24 10:08:00][notice]Preparing to dump table wp_wc_admin_note_actions
+[2020-08-24 10:08:00][notice]Preparing to dump table wp_wc_category_lookup
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_customer_lookup
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_download_log
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_order_product_lookup
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_order_stats
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_reserved_stock
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2020-08-24 10:08:01][notice]Preparing to dump table wp_wc_webhooks
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_api_keys
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_log
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_order_items
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_sessions
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2020-08-24 10:08:02][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2020-08-24 10:08:03][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2020-08-24 10:08:03][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2020-08-24 10:08:03][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2020-08-24 10:08:03][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2020-08-24 10:08:03][notice]Exporting database finished.
+[2020-08-24 10:08:04][notice]Start compressing backup_db
+[2020-08-24 10:08:04][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_db.zip
+[2020-08-24 10:08:04][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_db.zip, filesize: 3.88 MB
+[2020-08-24 10:08:04][notice]Compressing backup_db completed
+[2020-08-24 10:08:04][notice]Backing up backup_db completed.
+[2020-08-24 10:08:04][notice]Prepare to backup backup_themes files.
+[2020-08-24 10:08:04][notice]File number: 678
+[2020-08-24 10:08:04][notice]Start compressing backup_themes
+[2020-08-24 10:08:05][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_themes.zip
+[2020-08-24 10:08:24][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_themes.zip, filesize: 9.31 MB
+[2020-08-24 10:08:24][notice]Compressing backup_themes completed
+[2020-08-24 10:08:24][notice]Backing up backup_themes completed.
+[2020-08-24 10:08:27][notice]Prepare to backup backup_plugin files.
+[2020-08-24 10:08:27][notice]File number: 5690
+[2020-08-24 10:08:27][notice]Start compressing backup_plugin
+[2020-08-24 10:08:37][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_plugin.zip
+[2020-08-24 10:10:52][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_plugin.zip, filesize: 80.71 MB
+[2020-08-24 10:10:52][notice]Compressing backup_plugin completed
+[2020-08-24 10:10:52][notice]Backing up backup_plugin completed.
+[2020-08-24 10:10:53][notice]Prepare to backup backup_uploads files.
+[2020-08-24 10:10:53][notice]File number: 552
+[2020-08-24 10:10:53][notice]Start compressing backup_uploads
+[2020-08-24 10:10:53][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_uploads.zip
+[2020-08-24 10:11:02][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_uploads.zip, filesize: 24.37 MB
+[2020-08-24 10:11:02][notice]Compressing backup_uploads completed
+[2020-08-24 10:11:02][notice]Backing up backup_uploads completed.
+[2020-08-24 10:11:02][notice]Prepare to backup backup_content files.
+[2020-08-24 10:11:02][notice]File number: 2
+[2020-08-24 10:11:02][notice]Start compressing backup_content
+[2020-08-24 10:11:02][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_content.zip
+[2020-08-24 10:11:02][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_content.zip, filesize: 4.28 KB
+[2020-08-24 10:11:02][notice]Compressing backup_content completed
+[2020-08-24 10:11:02][notice]Backing up backup_content completed.
+[2020-08-24 10:11:03][notice]Prepare to backup backup_core files.
+[2020-08-24 10:11:03][notice]File number: 1648
+[2020-08-24 10:11:03][notice]Start compressing backup_core
+[2020-08-24 10:11:04][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_core.zip
+[2020-08-24 10:11:38][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_core.zip, filesize: 38.09 MB
+[2020-08-24 10:11:38][notice]Compressing backup_core completed
+[2020-08-24 10:11:38][notice]Backing up backup_core completed.
+[2020-08-24 10:11:38][notice]Prepare to backup backup_merge files.
+[2020-08-24 10:11:38][notice]File number: 6
+[2020-08-24 10:11:38][notice]Start compressing backup_merge
+[2020-08-24 10:11:38][notice]Prepare to zip files. file: localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip
+[2020-08-24 10:11:44][notice]Adding zip files completed.localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip, filesize: 66.28 MB
+[2020-08-24 10:11:44][notice]Cleaned up file, filename: C:\xampp\htdocs\wpress/wp-content\wpvividbackups\localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_plugin.zip
+[2020-08-24 10:11:44][notice]Cleaned up file, filename: C:\xampp\htdocs\wpress/wp-content\wpvividbackups\localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_core.zip
+[2020-08-24 10:11:44][notice]Cleaned up file, filename: C:\xampp\htdocs\wpress/wp-content\wpvividbackups\localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_uploads.zip
+[2020-08-24 10:11:44][notice]Cleaned up file, filename: C:\xampp\htdocs\wpress/wp-content\wpvividbackups\localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_themes.zip
+[2020-08-24 10:11:44][notice]Cleaned up file, filename: C:\xampp\htdocs\wpress/wp-content\wpvividbackups\localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_db.zip
+[2020-08-24 10:11:44][notice]Cleaned up file, filename: C:\xampp\htdocs\wpress/wp-content\wpvividbackups\localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_content.zip
+[2020-08-24 10:11:44][notice]Compressing backup_merge completed
+[2020-08-24 10:11:44][notice]Backing up backup_merge completed.
+[2020-08-24 10:11:45][notice]Backup completed.
+[2020-08-24 10:11:45][notice]Backup succeeded.
+[2020-08-24 10:11:45][notice]Start upload.
+[2020-08-24 10:11:45][notice]Check upload folder wpvivid_backup
+[2020-08-24 10:11:46][notice]Start uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip
+[2020-08-24 10:11:46][notice]Check if the server already has the same name file.
+[2020-08-24 10:11:46][notice]Initiate a resumable upload session.
+[2020-08-24 10:11:50][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 7.00 MB speed:1835.01kb/s
+[2020-08-24 10:11:54][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 17.00 MB speed:2621.44kb/s
+[2020-08-24 10:11:58][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 27.00 MB speed:2621.44kb/s
+[2020-08-24 10:12:02][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 37.00 MB speed:2621.44kb/s
+[2020-08-24 10:12:06][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 48.00 MB speed:2883.58kb/s
+[2020-08-24 10:12:10][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 58.00 MB speed:2621.44kb/s
+[2020-08-24 10:12:15][notice]Uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip Total size: 66.28 MB Uploaded: 66.28 MB speed:1736.66kb/s
+[2020-08-24 10:12:15][notice]Finished uploading localhost_wpress_wpvivid-5f4391640ccf1_2020-08-24-10-07_backup_all.zip
+[2020-08-24 10:12:15][notice]Cleaned up local files after uploading to remote storages.
+[2020-08-24 10:12:15][notice]Upload succeeded.
